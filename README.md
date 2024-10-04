@@ -7,17 +7,9 @@ A simple Markov text generator implemented using HTML, CSS, and JavaScript. This
 
 ## Installation
 
-1. **Clone the Repository**:
+1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/yourusername/markov-text-generator.git
-   ```
-
-2. **Navigate to the Project Directory**:
-
-   ```bash
-   cd markov-text-generator
-   ```
+2. **Navigate to the Project Directory**
 
 3. **Open `index.html` in Your Browser**:
 
