@@ -1,9 +1,6 @@
 # Advanced Markov Text Generator
 
 A simple Markov text generator implemented using HTML, CSS, and JavaScript. This generator creates new text based on the statistical properties of an input text, producing varied and mismatched sentences that resemble the style of the training text.
--
-
--
 
 ## Installation
 
